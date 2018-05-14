@@ -12,7 +12,7 @@ class Artist
   @@artists = []
 
   def initialize
-    super
+    super # use code in Memorable module and the code below
     @songs = []
   end
 
